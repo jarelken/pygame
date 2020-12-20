@@ -1,6 +1,6 @@
 #classes sprite
 import pygame as pg
-from settings import *
+from Jogo.settings import *
 import random
 vetor = pg.math.Vector2
 
