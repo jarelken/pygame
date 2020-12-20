@@ -1,0 +1,30 @@
+
+.sprite-jesuscorrendo1 { ATUALIZADO
+    width: 140px;
+    height: 300px;
+    background-position xy: 160px 30px;
+}
+
+.sprite-jesuscorrendo2 { ATUALIZADO
+    width: 140px;
+    height: 300px;
+    background-position xy: 460px 40px;
+}
+
+.sprite-jesusparado1 { ATUALIZADO
+    width: 130px;
+    height: 300px;
+    background-position xy: 820px 50px;
+}
+
+.sprite-jesusparado2 { ATUALIZADO
+    width: 130px;
+    height: 300px;
+    background-position xy: 50px 430px;
+}
+
+.sprite-jesuspulando { ATUALIZADO
+    width: 240px;
+    height: 280px;
+    background-position xy: 320x 420px;
+}
